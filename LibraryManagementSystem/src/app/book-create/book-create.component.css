@@ -1,0 +1,24 @@
+.bg{
+  background-image: url("/LibraryManagementSystem/screenshots/library.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
+
+.example-full-width {
+  width: 100%;
+}
+
+.example-full-width:nth-last-child() {
+  margin-bottom: 10px;
+}
+
+.button-row {
+  margin: 10px 0;
+}
